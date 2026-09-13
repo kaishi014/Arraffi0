@@ -1,6 +1,6 @@
 {
   "name": "portofolio-arraffi",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://kaishi014.github.io/Arraffi0/",
