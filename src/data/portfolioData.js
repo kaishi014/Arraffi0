@@ -25,10 +25,10 @@ export const personalInfo = {
 };
 
 export const socialLinks = {
-  github: null,
+  github: "https://github.com/kaishi014",
   linkedin: null,
-  instagram: "https://www.instagram.com/arraffi__codes/",
-  tiktok: "https://www.tiktok.com/@arraffi_codes",
+  instagram: "https://www.instagram.com/kaishi014/",
+  tiktok: null,
   discord: null,
 };
 
