@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:github": "vite build --base=/Arraffi0/",
+    "deploy": "npm run build:github && gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },

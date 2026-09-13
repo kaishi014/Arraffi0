@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Arraffi0",
+			"path": "../.."
+		},
+		{
+			"name": "dist",
+			"path": "../../../dist"
+		}
+	],
+	"settings": {}
+}
